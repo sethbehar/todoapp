@@ -1,8 +1,8 @@
 
 const ProgressBar = () => {
     return (
-      <div className="App">
-        App
+      <div >
+        
       </div>
     );
   }
